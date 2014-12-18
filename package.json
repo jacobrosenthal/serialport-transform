@@ -1,6 +1,6 @@
 {
   "name": "serialport-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "browserify-transform-tools transforms node-serialport to browser-serialport",
   "main": "index.js",
   "scripts": {
