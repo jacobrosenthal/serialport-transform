@@ -1,0 +1,20 @@
+{
+  "name": "serialport-transform",
+  "version": "1.0.0",
+  "description": "browserify-transform-tools transforms node-serialport to browser-serialport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/jacobrosenthal/serialport-transform",
+  "keywords": [
+    "node-serialport",
+    "browser-serialport",
+    "browserify-transform"
+  ],
+  "author": "Jacob Rosenthal",
+  "license": "MIT",
+  "dependencies": {
+    "browserify-transform-tools": "^1.2.1"
+  }
+}
