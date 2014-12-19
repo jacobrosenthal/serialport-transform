@@ -1,6 +1,6 @@
 {
   "name": "serialport-transform",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "browserify-transform-tools transforms serialport to chrome-serialport",
   "main": "index.js",
   "scripts": {
